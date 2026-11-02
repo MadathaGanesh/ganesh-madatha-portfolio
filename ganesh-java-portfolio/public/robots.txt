@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://madathaganeshpersonalportfolio.netlify.app/sitemap.xml
